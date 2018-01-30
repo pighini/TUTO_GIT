@@ -1,4 +1,18 @@
+body {
+    margin: auto;
+    padding-top: 10px;
+    width: 1024px;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 10pt;
+    color : #0A3558;
+    background-color: #EDEDEE;    
+}
+
 p {
-align:left;
-width:250px;
+width:500px;
+}
+
+p {
+    margin: 7px 0 7px 0;
+    text-align: justify;
 }
